@@ -1,4 +1,8 @@
-•	I’m currently working with Data Engineering
+# Hi, I am Rashed.
+
+## I am a student and Data Engineer in training.
+
+•	I am currently working with Data Science
 
 •	Programming Languages: SQL, Python, Scala
 
