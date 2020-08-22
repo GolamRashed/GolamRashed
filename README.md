@@ -2,7 +2,7 @@
 
 ## I am a student and Data Engineer in training.
 
-•	I am currently working with Data Science
+•	I am currently working in the Data domain
 
 •	Programming Languages: SQL, Python, Scala
 
