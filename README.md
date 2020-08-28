@@ -1,14 +1,14 @@
 # Hi, I am Rashed.
 
-## I am a student and Data Engineer in training.
+## I am an Engineer by profession, and a Data Engineer in training.
 
 •	I am currently working in the Data domain
 
 •	Programming Languages: SQL, Python, Scala
 
-•	Data Engineering: Spark, Kafka, Airflow
+•	Big Data: Spark, Kafka, Airflow
 
-•	DevOps/SRE: Git, GitLab, Jenkins, Docker, Kubernetes
+•	DevOps/SRE: Linux, Git, GitLab, Jenkins, Docker, Kubernetes, Terraform, AWS, Azure, GCP
 
 <p align="center">
     <a href="mailto:golam.rashed@outlook.com"><img height="35" src="https://raw.githubusercontent.com/MGRashed/MGRashed/master/gmail_logo.svg"></a>&nbsp;&nbsp;
