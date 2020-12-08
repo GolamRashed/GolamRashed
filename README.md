@@ -8,7 +8,7 @@
 
 •	Big Data: Spark, Kafka, Airflow
 
-•	DevOps/SRE: Linux, Git, GitLab, Jenkins, Docker, Kubernetes, Terraform, AWS, Azure, GCP
+•	DevOps/Sysadmin: Linux, Git, GitLab, Jenkins, Docker, Kubernetes, Terraform, AWS, Azure, GCP
 
 <p align="center">
     <a href="mailto:golam.rashed@outlook.com"><img height="35" src="https://raw.githubusercontent.com/MGRashed/MGRashed/master/gmail_logo.svg"></a>&nbsp;&nbsp;
