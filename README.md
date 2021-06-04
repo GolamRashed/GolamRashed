@@ -4,7 +4,7 @@
 
 I am currently working in the Data domain
 
-•	Programming Languages: SQL, Python, Scala
+•	Programming Languages: SQL, Python
 
 •	Big Data/Wrangling: NumPy, SciPy, pandas, Matplotlib, Spark/Databricks, Kafka, Airflow
 
