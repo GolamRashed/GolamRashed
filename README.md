@@ -2,7 +2,7 @@
 
 ## I am a Data Engineer.
 
-I am currently working in the Data domain
+Currently working in the Data domain -
 
 •	Programming: SQL, Python
 
