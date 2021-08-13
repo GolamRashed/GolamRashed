@@ -1,8 +1,4 @@
-# Hi, I am Rashed.
-
-## I am a Data Engineer.
-
-Currently working in the Data domain -
+# Data Engineer currently working in the Govt sector -
 
 • Programming: Python, SQL
 
