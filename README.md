@@ -2,7 +2,7 @@
 
 • Programming: Python, SQL
 
-• Big Data/Wrangling: NumPy, SciPy, pandas, Apache Spark/Databricks, Apache Airflow
+• Big Data/Wrangling: NumPy, pandas, Apache Airflow, Apache NiFi, Apache Spark/Databricks
 
 • Database/Warehousing: PostgreSQL, MS SQL Server, Azure Synapse Analytics
 
