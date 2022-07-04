@@ -1,4 +1,4 @@
-# Data Engineer currently working in the Public Service -
+# Data Engineer currently working in MLOps -
 
 • Programming: Python, SQL
 
